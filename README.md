@@ -15,7 +15,8 @@ FUNDAMENTOS DE CIRCUITOS ELECTRICOS
 NRC : 10067
 
 PROYECTO: Detector de nivel de agua
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 .-OBJETIVOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 OBJETIVOS 	 GENERALES  
 
@@ -31,7 +32,7 @@ Armar un circuito el cual tenga como objetivo captar el nivel del agua mediante 
  . Aplicamos lo aprendido en clase.
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MARCO TEÓRICO (RESUMEN)
+2.- MARCO TEÓRICO (RESUMEN)
 
 ![image](https://user-images.githubusercontent.com/116777044/204431025-65da99ef-1c7b-4f22-9a3d-57b93273204f.png)
 
@@ -46,14 +47,15 @@ MARCO TEÓRICO (RESUMEN)
 ![image](https://user-images.githubusercontent.com/116777044/204431233-20e2dabb-6662-4292-8938-9e03a5387f77.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-PROCEDIMIENTO
+3.- PROCEDIMIENTO 
 
 EXPLICACIÓN DEL PROCEDIMIENTO
+
 Para la realización de este proyecto necesitaremos los siguientes materiales
 
 -	3 transistores 
--	Diodos led 
--	Resistencia de 1 kilo ohmio
+-3 	Diodos led 
+-	Resistencia de 330 OHM
 -	4 cables de 20 cm de diámetro 
 -	Una protoboard 
 -	Un recipiente 
@@ -63,11 +65,11 @@ Los pasos a seguir son los siguientes:
 
 1.	Conectamos los 3 transistores polarizados a negativos en la protoboard.
 2.	Como segundo paso colocamos un diodo led al frente de cada transistor 
-3.	Después colocamos la resistencia de 1 kilo ohmio al final de nuestro circuito 
-4.	Para continuar, utilizamos los cables y comenzamos conectando a la resistencia de 1 kilo ohmio y los demás al pin base de los transistores 
-5.	Como siguiente paso es importante no olvidar el orden de los claves, a continuación acortaremos los dos últimos cables.
-6.	Para finalizar conectaremos a una batería de 9 Voltios y los cables los meteremos en el recipiente.
-7.	Por último, llenamos el recipiente con agua y observamos el resultado.
+3.	Después colocamos la resistencia de 330 ohm al final de nuestro circuito.    
+5.	Para continuar, utilizamos los cables y comenzamos conectando a la resistencia de 330 ohm y los demás al pin base de los transistores 
+6.	Como siguiente paso es importante no olvidar el orden de los claves, a continuación acortaremos los dos últimos cables.
+7.	Para finalizar conectaremos a una batería de 9 Voltios y los cables los meteremos en el recipiente.
+8.	Por último, llenamos el recipiente con agua y observamos el resultado.
 
 Como adicional podemos observar el diagrama de circuito:
 
@@ -76,7 +78,6 @@ Como adicional podemos observar el diagrama de circuito:
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------
 VIDEO
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES 
