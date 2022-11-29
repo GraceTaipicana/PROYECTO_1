@@ -19,8 +19,14 @@ PROYECTO: Detector de nivel de agua
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 OBJETIVOS 	 GENERALES  
 
+Armar un circuito el cual tenga como objetivo captar el nivel del agua mediante componentes electronicos implementados en el protoboard para entender el funcionamiento de este sensor.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  OBJETIVOS ESPECÍFICOS
+ 
+ . Analizar y entender lo componentes implementados en el circuito y reconocer como 
+ . Aprender como interactuan entre ellos al momento de detectar el nivel del agua.
+ . Aplicamos lo aprendido en clase.
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MARCO TEÓRICO (RESUMEN)
@@ -72,7 +78,7 @@ VIDEO
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES 
-
+Podemos concluir la importancia de realizar experimentos fisicos o virtuales para reforzar e implementar los conocimientos adquiridos en clase, tambien 
 
 ---------------------------------------------------------------------------------------------------------------
 
