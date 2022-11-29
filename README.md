@@ -24,8 +24,10 @@ Armar un circuito el cual tenga como objetivo captar el nivel del agua mediante 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  OBJETIVOS ESPECÍFICOS
  
- . Analizar y entender lo componentes implementados en el circuito y reconocer como 
- . Aprender como interactuan entre ellos al momento de detectar el nivel del agua.
+ . Analizar y entender lo componentes implementados en el circuito 
+ 
+ . Aprender a reconocer como interactuan entre ellos al momento de detectar el nivel del agua.
+ 
  . Aplicamos lo aprendido en clase.
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,8 +80,18 @@ VIDEO
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES 
-Podemos concluir la importancia de realizar experimentos fisicos o virtuales para reforzar e implementar los conocimientos adquiridos en clase, tambien 
+Podemos concluir la importancia de realizar experimentos fisicos o virtuales para reforzar e implementar los conocimientos adquiridos en clase, tambien el conocer mas sobre el tema de circuitos y reconocer su aplicacion en diferentes campos.
+
+Del experimento realizado se puede deducir que su funcionamiento se da ya que el agua es un elemento conductor mediante el cual cierra el ciclo al entrar en contacto con el cable comun y los cables que representan el nivel del agua.
 
 ---------------------------------------------------------------------------------------------------------------
 
 BIBLIOGRAFÍA
+
+Transistor - Concepto, tipos y cómo funciona. (s. f.). Concepto. https://concepto.de/transistor/
+
+J.L, B. (2022, 5 abril). Transistores. Electrónica Online. https://electronicaonline.net/componentes-electronicos/transistor/
+
+(2017, 21 agosto). ¿Que es un LED? | LEDTecnología - Iluminación Led. Led Tecnología - Iluminación Led en Rosario. https://www.ledtecnologia.com/que-es-un-led/
+
+(2022, 31 marzo). Protoboard, ¿Qué es y cómo se usa? Descubrearduino.com. https://descubrearduino.com/protoboard/
