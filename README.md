@@ -79,8 +79,11 @@ Como adicional podemos observar el diagrama de circuito:
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------
 VIDEO
 
+https://youtu.be/Ei1XFlQ6mwk
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 CONCLUSIONES 
+
 Podemos concluir la importancia de realizar experimentos fisicos o virtuales para reforzar e implementar los conocimientos adquiridos en clase, tambien el conocer mas sobre el tema de circuitos y reconocer su aplicacion en diferentes campos.
 
 Del experimento realizado se puede deducir que su funcionamiento se da ya que el agua es un elemento conductor mediante el cual cierra el ciclo al entrar en contacto con el cable comun y los cables que representan el nivel del agua.
